@@ -1,0 +1,23 @@
+<head>
+    <link rel="stylesheet" href="~/css/styles.css" />
+</head>
+@model ContactManagementSystem_V2.Models.Contact
+<div class="container">
+
+    <form asp-action="Create" method="post">
+        <div>
+            <label for="Name">Name:</label>
+            <input type="text" asp-for="Name" required /><br>
+        </div>
+        <div>
+            <label for="Email">Email:</label>
+            <input type="text" asp-for="Email" required /><br>
+        </div>
+        <div>
+            <label for="Phone">Phone:</label>
+            <input type="text" asp-for="Phone" required /><br>
+        </div>
+        <button type="submit">Add Contact</button>
+        <a href="/Contacts">Cancel</a>
+    </form>
+</div>

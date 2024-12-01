@@ -1,0 +1,24 @@
+<head>
+    <link rel="stylesheet" href="~/css/styles.css" />
+</head>
+@model List<ContactManagementSystem_V2.Models.Contact>
+<div class="container">
+    <h1>Contact List</h1>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone Number</th>
+        </tr><samp></samp>
+        @foreach (var contact in Model)
+        {
+            <tr>
+                <td>@contact.Name</td>
+                <td>@contact.Email</td>
+                <td>@contact.Phone</td>
+                <td><a href="/Contacts/Edit/@contact.Id">Edit</a> | <a href="/Contacts/Delete/@contact.Id">Delete</a></td>
+            </tr>
+        }
+    </table>
+    <a href="/Contacts/Create">Add a New Contact</a>
+</div>
