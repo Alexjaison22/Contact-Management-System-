@@ -33,7 +33,29 @@ To run the project locally:
 ---
 
 ## **Future Improvements**
-Implement user authentication and authorization.
-Add advanced search filters (e.g., by email or phone).
+1. Implement user authentication and authorization.
+2. Add advanced search filters (e.g., by email or phone).
+
+---
+
+## **License**
+
+This project is licensed under the MIT License. See LICENSE for more information.
+
+---
+
+##**Contributing**
+
+Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request.
+
+---
+
+##**Contact**
+
+For any inquiries or feedback, feel free to reach out:
+
+Email: jaisonalex872@gmail.com
+
+
 
 
