@@ -32,6 +32,21 @@ To run the project locally:
 
 ---
 
+## **Screenshots**
+### Home Page
+![CMS Homepage Screenshot](./images/dashboard.png)
+
+### Add Contact Page
+![Add Contact Screenshot](./images/add-contact.png)
+
+### Edit Contact Page
+![Edit Contact Screenshot](./images/add-contact.png)
+
+### Delete Contact Page
+![Delete Contact Screenshot](./images/add-contact.png)
+
+---
+
 ## **Future Improvements**
 1. Implement user authentication and authorization.
 2. Add advanced search filters (e.g., by email or phone).
