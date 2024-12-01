@@ -9,7 +9,6 @@ The **Contact Management System** is a web-based application designed to simplif
 - **Add Contacts**: Create new contact records with essential details such as name, email, phone number, and address.
 - **Edit Contacts**: Update existing contact details in just a few clicks.
 - **Delete Contacts**: Remove contacts permanently from the system.
-- **Search Functionality**: Quickly find contacts using a search bar.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 
 ---
