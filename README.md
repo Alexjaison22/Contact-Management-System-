@@ -34,16 +34,16 @@ To run the project locally:
 
 ## **Screenshots**
 ### Home Page
-![CMS Homepage Screenshot](./images/dashboard.png)
+![CMS Homepage Screenshot](./images/Homepage.png)
 
 ### Add Contact Page
 ![Add Contact Screenshot](./images/add-contact.png)
 
 ### Edit Contact Page
-![Edit Contact Screenshot](./images/add-contact.png)
+![Edit Contact Screenshot](./images/Edit-contact.png)
 
 ### Delete Contact Page
-![Delete Contact Screenshot](./images/add-contact.png)
+![Delete Contact Screenshot](./images/delete-contact.png)
 
 ---
 
